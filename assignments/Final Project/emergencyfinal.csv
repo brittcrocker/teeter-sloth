@@ -1,0 +1,46 @@
+CallDateTime,Address,ExtNatureDisplayName,InNum,Timestamp,Latitude,Longitude,Agencies,FDids,Trucks
+5/4/2016 5:20:27 PM,COUNTY,Long Distance Transport,201610116,1462400427,39.004638,-92.306992,University Hospital Ambulance Service,19011,M257 - M257
+5/4/2016 10:58:06 AM,513 OPTIMIST DR N-AS,Intentional Burn County,201610091,1462377486,38.784300,-92.255590,,,
+5/4/2016 4:57:19 PM,1517 WALNUT ST E-CO.104,Medical Response,201610115,1462399039,38.952730,-92.317300,"Columbia Fire Department, Boone Hospital Center Ambulance,",01005/19054,Q1 - M151
+5/4/2016 4:43:54 PM,1515 MILLS DR-CO,Electrical Hazard,201610114,1462398234,38.934410,-92.363660,Columbia Fire Department,01005,Q6
+5/4/2016 4:30:10 PM,9101 ST CHARLES RD E-BC,Medical Response,201610113,1462397410,38.975390,-92.197240,"Boone County Fire Protection District, Boone Hospital Center Ambulance, University Hospital Ambulance Service,",01001/19054/19011,G106 - M111 - M251
+5/4/2016 4:07:09 PM,1 HOSPITAL DR-CO,Routine Transport,201610111,1462396029,38.938270,-92.328390,University Hospital Ambulance Service,19011,M211
+5/4/2016 4:01:09 PM,1 HOSPITAL DR-CO,Routine Transport,201610110,1462395669,38.938270,-92.328390,University Hospital Ambulance Service,19011,M257
+5/4/2016 3:28:49 PM,1201 PAQUIN ST-CO,Medical Response,201610109,1462393729,38.947910,-92.323430,Boone Hospital Center Ambulance,19054,M151
+5/4/2016 3:23:06 PM,1021 HIGHWAY 22 E-CE,Routine Transport,201610108,1462393386,39.216800,-92.126460,Boone Hospital Center Ambulance,19054,M131
+5/4/2016 3:02:19 PM,3003 FALLING LEAF CT-CO,Routine Transport,201610107,1462392139,38.917010,-92.295550,University Hospital Ambulance Service,19011,M251
+5/4/2016 2:57:53 PM,1201 HUNT AV-CO.106 1,Medical Response,201610106,1462391873,38.965710,-92.360810,University Hospital Ambulance Service,19011,M221
+5/4/2016 1:58:29 PM,4840 HIGHWAY 763 N-CO,Medical Response,201610105,1462388309,39.002720,-92.322740,"Columbia Fire Department, University Hospital Ambulance Service, Boone Hospital Center Ambulance,",01005/19011/19054,Q9 - M221 - M121
+5/4/2016 1:54:57 PM,1805 MILLS DR-CO,Medical Response,201610104,1462388097,38.932470,-92.367050,"Columbia Fire Department, University Hospital Ambulance Service,",01005/19011,Q6 - M231
+5/4/2016 1:36:11 PM,3850 BETHEL ST-CO.112,Medical Response,201610103,1462386971,38.909090,-92.343460,"Columbia Fire Department, University Hospital Ambulance Service,",01005/19011,Q7 - M211 - M231
+5/4/2016 1:30:03 PM,1600 BROADWAY E-CO,Long Distance Transport,201610102,1462386603,38.949810,-92.315850,Boone Hospital Center Ambulance,19054,M112
+5/4/2016 12:45:10 PM,404 KEENE ST N-CO,Routine Transport,201610098,1462383910,38.957450,-92.288260,University Hospital Ambulance Service,19011,M257
+5/4/2016 12:43:44 PM,315 BUSINESS LOOP 70 W-CO.213 B,Medical Response,201610099,1462383824,38.966350,-92.342000,University Hospital Ambulance Service,19011,M221
+5/4/2016 12:09:17 PM,404 KEENE ST N-CO,Routine Transport,201610096,1462381757,38.957450,-92.288260,University Hospital Ambulance Service,19011,M222
+5/4/2016 11:15:18 AM,604 OLD 63 N-CO,Routine Transport,201610094,1462378518,38.958010,-92.311290,University Hospital Ambulance Service,19011,M222
+5/4/2016 11:08:49 AM,1 HOSPITAL DR-CO,Routine Transport,201610092,1462378129,38.938270,-92.328390,University Hospital Ambulance Service,19011,M211
+5/4/2016 11:07:24 AM,1190 SWITZLER ST E-CE.39,Medical Response,201610093,1462378044,39.213170,-92.124990,", Boone Hospital Center Ambulance,",01003/19054,CENTFD - M131
+5/4/2016 10:28:35 AM,404 KEENE ST N-CO,Routine Transport,201610090,1462375715,38.957450,-92.288260,University Hospital Ambulance Service,19011,M257
+5/4/2016 10:26:06 AM,1600 BROADWAY E-CO,Long Distance Transport,201610088,1462375566,38.949810,-92.315850,Boone Hospital Center Ambulance,19054,M112
+5/4/2016 10:18:09 AM,110 NIFONG BLVD E-CO.A,Medical Response,201610087,1462375089,38.908690,-92.338300,"Columbia Fire Department, University Hospital Ambulance Service,",01005/19011,Q7 - M211
+5/4/2016 10:12:58 AM,3003 FALLING LEAF CT-CO.3,Medical Response,201610086,1462374778,38.917010,-92.295550,Boone Hospital Center Ambulance,19054,M161
+5/4/2016 10:03:02 AM,3100 HILL HAVEN LN-CO,Medical Response,201610084,1462374182,38.982570,-92.284510,"Columbia Fire Department, Boone Hospital Center Ambulance,",01005/19054,Q4 - M111
+5/4/2016 10:02:53 AM,1400 FORUM BLVD-CO.1A,Medical Response,201610085,1462374173,38.937130,-92.358170,University Hospital Ambulance Service,19011,M231
+5/4/2016 9:36:16 AM,404 KEENE ST N-CO,Emergency Transport,201610083,1462372576,38.957450,-92.288260,University Hospital Ambulance Service,19011,M251
+5/4/2016 9:14:48 AM,604 OLD 63 N-CO,Routine Transport,201610081,1462371288,38.958010,-92.311290,University Hospital Ambulance Service,19011,M211
+5/4/2016 8:35:08 AM,301 NEBRASKA AV-CO,Vehicle Fire,201610080,1462368908,38.966680,-92.333250,Columbia Fire Department,01005,Q9 - Q1
+5/4/2016 8:15:12 AM,901 RAIN FOREST PKWY-CO,Special Event,201610077,1462367712,38.989600,-92.325880,University Hospital Ambulance Service,19011,BA411
+5/4/2016 7:29:37 AM,5812 BROWN STATION RD-CO,Motor Vehicle Collision,201610076,1462364977,39.012690,-92.277950,"Columbia Fire Department, Boone Hospital Center Ambulance, University Hospital Ambulance Service,",01005/19054/19011,Q4 - Q9 - S3 - M151 - CF5 - BC1 - EMS10 - M251
+5/4/2016 7:05:30 AM,3900 CLARK LN-CO.190,Medical Response,201610075,1462363530,38.963440,-92.275620,"Columbia Fire Department, Boone Hospital Center Ambulance,",01005/19054,Q5 - M111
+5/4/2016 6:16:23 AM,202 SEARSPORT DR-CO,Medical Response,201610074,1462360583,38.952850,-92.246810,"Columbia Fire Department, Boone Hospital Center Ambulance,",01005/19054,Q5 - M111
+5/4/2016 5:27:26 AM,1705 STARLIGHT DR-CO,Medical Response,201610073,1462357646,38.968910,-92.273810,"Columbia Fire Department, Boone Hospital Center Ambulance,",01005/19054,Q5 - M111
+5/4/2016 4:55:14 AM,1 HOSPITAL DR-CO,Routine Transport,201610072,1462355714,38.938270,-92.328390,University Hospital Ambulance Service,19011,M211
+5/4/2016 4:28:29 AM,1805 MILLS DR-CO,Medical Response,201610071,1462354109,38.932470,-92.367050,"Columbia Fire Department, University Hospital Ambulance Service,",01005/19011,Q6 - M231
+5/4/2016 4:25:49 AM,404 KEENE ST N-CO,Routine Transport,201610070,1462353949,38.957450,-92.288260,University Hospital Ambulance Service,19011,M251
+5/4/2016 2:11:45 AM,3201 ELM GROVE DR-CO.A,Medical Response,201610069,1462345905,38.995090,-92.289030,"Columbia Fire Department, Boone Hospital Center Ambulance,",01005/19054,Q4 - M111
+5/4/2016 2:10:46 AM,315 STONE ST E-ST,Medical Response,201610068,1462345846,39.236510,-92.276310,"Boone County Fire Protection District, Boone Hospital Center Ambulance,",01001/19054,G606 - M131 - M131 - G1006 - CP27
+5/4/2016 2:10:25 AM,4704 BETHEL ST-CO,Undefined,201610067,1462345825,38.899230,-92.344580,"Columbia Fire Department, University Hospital Ambulance Service,",01005/19011,Q7 - M231
+5/4/2016 1:31:15 AM,4000 HYDE PARK AV-CO.94,Medical Response,201610066,1462343475,38.906350,-92.329020,University Hospital Ambulance Service,19011,M231 - M211
+5/4/2016 1:29:08 AM,1 HOSPITAL DR-CO,Routine Transport,201610065,1462343348,38.938270,-92.328390,University Hospital Ambulance Service,19011,M257
+5/4/2016 12:43:46 AM,204 ELAINE AV-HA.D4,Medical Response,201610064,1462340626,39.119380,-92.221880,"Boone County Fire Protection District, Boone Hospital Center Ambulance,",01001/19054,G306 - M131
+5/4/2016 12:33:35 AM,4000 HYDE PARK AV-CO,Medical Response,201610063,1462340015,38.905890,-92.328720,University Hospital Ambulance Service,19011,M211
